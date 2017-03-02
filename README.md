@@ -1,2 +1,2 @@
 # RxJS-in-action
-PxJS in action
+RxJS in action
